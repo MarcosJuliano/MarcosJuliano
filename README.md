@@ -40,7 +40,7 @@ Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, esto
 
 ### 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MarcosJuliano&theme=dark)
+![Metrics](https://metrics.lecoq.io/MarcosJuliano)
 
 <img 
       align="left" 
