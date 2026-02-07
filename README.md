@@ -40,13 +40,24 @@ Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, esto
 
 ### 📊 Estatísticas
 
-![Metrics](https://metrics.lecoq.io/MarcosJuliano)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJuliano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=99" 
+<a href="https://github.com/MarcosJuliano">
+  <img
+    align="left"
+    height="170"
+    alt="GitHub stats"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api?username=MarcosJuliano&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues,contribs&include_all_commits=true&rank_icon=github&border_radius=16&cache_seconds=86400&title_color=111827&text_color=374151&icon_color=111827&ring_color=111827&card_width=420&custom_title=Activit%C3%A9%20GitHub"
   />
+</a>
+
+<a href="https://github.com/MarcosJuliano">
+  <img
+    align="left"
+    height="170"
+    alt="Top languages"
+    src="https://github-readme-stats-six-liart-18.vercel.app/api/top-langs/?username=MarcosJuliano&layout=compact&theme=transparent&hide_border=true&border_radius=16&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400&title_color=111827&text_color=374151&card_width=420"
+  />
+</a>
+
+<br clear="all" />
 
 </p>
