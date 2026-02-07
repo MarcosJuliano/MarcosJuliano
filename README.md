@@ -4,11 +4,9 @@
 
 Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Sistema de Informação na Fametro. Sou muito interessado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
-<p align="left">
-  ![Stars](https://img.shields.io/github/stars/MarcosJuliano?style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/MarcosJuliano?style=for-the-badge)
-</p>
 
+![Stars](https://img.shields.io/github/stars/MarcosJuliano?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MarcosJuliano?style=for-the-badge)
 ---
 
 ### 🤖 Linguagens e Tecnologias
