@@ -1,30 +1,73 @@
-## Bem-vindo(a) ao perfil do Marcos Juliano 😁
+# 👨‍💻 Marcos Juliano
 
- <div>
-   <a href="https://github.com/MarcosJuliano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosJuliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJuliano&layout=compact&langs_count=6&theme=tokyonight"/>
+**`Desenvolvedora em Desenvolvimento`**
 
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
- 
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-<a href="https://instagram.com/marc0s_julian0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcosjuliano081@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-  ![Snake animation](https://github.com/MarcosJuliano/MarcosJuliano/blob/output/github-contribution-grid-snake.svg)
+Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Sistema de Informação na Fametro. Sou muito interessado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
-</div>
- 
+<p align="left">
+    <a href="https://github.com/MarcosJuliano?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://github-readme-stats.vercel.app/api?username=MarcosJulianoh&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        />
+    </a>
+    <a href="https://github.com/MarcosJuliano?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MarcosJuliano?color=236ad3&labelColor=1155ba&style=for-the badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosJuliano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJuliano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=99" 
+  />
+
+</p>
