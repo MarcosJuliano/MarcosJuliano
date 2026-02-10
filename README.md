@@ -1,6 +1,6 @@
 # 👨‍💻 Marcos Juliano
 
-**`Desenvolvedora em Desenvolvimento`**
+**`Desenvolvedor em Desenvolvimento`**
 
 Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Sistema de Informação na Fametro. Sou muito interessado por tecnologia e compartilho meu conhecimento através do meu GitHub.
 
