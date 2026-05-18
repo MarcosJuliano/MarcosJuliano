@@ -38,7 +38,7 @@ Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, esto
     align="left" 
     alt="JS" 
     title="JS"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" 
 />
