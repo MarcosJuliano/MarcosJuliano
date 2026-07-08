@@ -38,8 +38,6 @@ Desenvolvimento de hardware e firmware focado em acessibilidade. O projeto utili
 
 ### 🤖 Linguagens e Tecnologias
 
-### 🤖 Linguagens e Tecnologias
-
 <p align="left">
   <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
