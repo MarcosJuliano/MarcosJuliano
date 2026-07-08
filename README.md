@@ -1,6 +1,35 @@
 # 👨‍💻 Marcos Juliano
 
-Me chamo Marcos Juliano, tenho 20 anos e sou natural de Manaus. Atualmente, estou cursando Sistema de Informação na Fametro. Sou muito interessado por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Sou estudante de **Sistemas de Informação** (4º período) no Centro Universitário CEUNI – FAMETRO e bolsista Fies. Sou apaixonado por tecnologia, lógica de programação e por criar soluções que geram impacto real na sociedade e no meio ambiente.
+
+---
+
+### 🛠️ Competências Técnicas
+
+- **Linguagens & Lógica:** Linguagem C (Algoritmos e Estruturas de Dados), Estudando JavaScript e aprimorando meus conhecimentos.
+- **Desenvolvimento Front-End:** HTML5 Semântico, CSS3 (Flexbox/Grid) e Design Responsivo (Mobile-First).
+- **Interface & Acessibilidade:** Princípios de UX/UI voltados para acessibilidade e design inclusivo.
+- **Ferramentas:** Git e GitHub (Versionamento e gestão de ramificações).
+
+---
+
+### 📁 Projetos em Destaque
+
+🌱 **PlantMap (Inovatech)**  
+Plataforma web interativa focada no monitoramento de dados de reflorestamento urbano. O sistema permite o registro de plantios em tempo real via mapa interativo (Leaflet.js) e conta com recursos de feed social, interações e gamificação.  
+*Tecnologias: HTML5, CSS3, JavaScript (ES6+) e LocalStorage.*
+
+👓 **Óculos Assistivo para Pessoas com Deficiência Visual (Inovatec)**  
+Desenvolvimento de hardware e firmware focado em acessibilidade. O projeto utiliza lógica em Linguagem C integrada a sensores ultrassônicos para calcular distâncias e emitir alertas sonoros automatizados, auxiliando a mobilidade urbana de forma inclusiva.
+
+---
+
+### 📫 Como me encontrar:
+
+- **LinkedIn:** [marcos-juliano-lima-da-costa](https://www.linkedin.com/in/marcos-juliano-lima-da-costa-956587397/)
+- **E-mail:** marcosjuliano081@gmail.com
+
+⚡ *Em constante aprendizado e focado em evoluir no desenvolvimento de software e garantia de qualidade (QA)!*
 
 
 ![Stars](https://img.shields.io/github/stars/MarcosJuliano?style=for-the-badge)
