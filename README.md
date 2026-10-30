@@ -30,41 +30,93 @@ Atualmente, busco oportunidades de estágio e início de carreira em tecnologia,
 **Linguagens de programação**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" alt="C" title="C"/>
+  <img
+  src="./assets/python.svg"
+  width="36"
+  height="36"
+  alt="Linguagem Python"
+  title="Python"
+  />
+  <img
+  src="./assets/javascript.svg"
+  width="36"
+  height="36"
+  alt="Linguagem JavaScript"
+  title="JavaScript"
+  />
+  <img
+  src="./assets/c.svg"
+  width="36"
+  height="36"
+  alt="Linguagem C"
+  title="C"
+  />
 </p>
 
 **Desenvolvimento Web**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
-  &nbsp;
+  <img
+  src="./assets/html.svg"
+  width="36"
+  height="36"
+  alt="HTML"
+  title="HTML"
+  />
+  <img
+  src="./assets/css.svg"
+  width="36"
+  height="36"
+  alt="CSS"
+  title="CSS"
+  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" title="Flask"/> -->
 </p>
 
 **Banco de dados**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" title="SQLite"/>
+  <img
+  src="./assets/sqlite.svg"
+  width="36"
+  height="36"
+  alt="SQlite"
+  title="SQlite"
+  />
 </p>
 
 **Ferramentas e ambiente de desenvolvimento**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="GitHub" title="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" title="Linux"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  <img
+  src="./assets/git.svg"
+  width="36"
+  height="36"
+  alt="git"
+  title="git"
+  />
+  <img
+  src="./assets/github.svg"
+  width="36"
+  height="36"
+  alt="github"
+  title="github"
+  />
+  <img
+  src="./assets/docker.svg"
+  width="36"
+  height="36"
+  alt="Docker"
+  title="Docker"
+  />
+  <img
+  src="./assets/linux.svg"
+  width="36"
+  height="36"
+  alt="linux"
+  title="linux"
+  />
+  <!--<img src="./assets/vscode.svg" width="36" height="36" alt="vscode" title="vscode"/> -->
 </p>
 
 **Conhecimentos em desenvolvimento**
@@ -81,6 +133,7 @@ Atualmente, busco oportunidades de estágio e início de carreira em tecnologia,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosJuliano/MarcosJuliano/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/MarcosJuliano/MarcosJuliano/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ### Estatísticas do GitHub
 
