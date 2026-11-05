@@ -109,13 +109,13 @@ Atualmente, busco oportunidades de estágio e início de carreira em tecnologia,
   alt="Docker"
   title="Docker"
   />
-  <img
+  <!-- <img
   src="./assets/linux.svg"
   width="36"
   height="36"
   alt="linux"
   title="linux"
-  />
+  /> -->
   <!--<img src="./assets/vscode.svg" width="36" height="36" alt="vscode" title="vscode"/> -->
 </p>
 
